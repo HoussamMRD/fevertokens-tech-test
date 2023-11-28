@@ -1,4 +1,5 @@
-# Coins Catalog
+# Fevertokens Tech Test
+
 
 ## Installation
 
