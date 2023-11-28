@@ -17,7 +17,7 @@ pnpm install
 
 ## Building the Project
 
-To build the project, run:
+To build the project in port=8000, run:
 
 ```bash
 pnpm run build
@@ -38,14 +38,6 @@ Copy the `.env.example` file and rename it to `.env`. Update the values in the `
 ```bash
 cp .env.example .env
 ```
-
-## Scripts
-
-##### Start the app in port=8000
-
-- `pnpm run build`: Build the project.
-- `pnpm start`: Run the project.
-
 
 
 ## Project Structure
